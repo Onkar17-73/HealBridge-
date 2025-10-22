@@ -1,0 +1,242 @@
+[
+  {
+    "patient_name": "John Smith",
+    "discharge_date": "2024-01-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": ["Lisinopril 10mg daily", "Furosemide 20mg twice daily"],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Emily Davis",
+    "discharge_date": "2024-02-10",
+    "primary_diagnosis": "Type 2 Diabetes Mellitus",
+    "medications": ["Metformin 500mg twice daily", "Glipizide 5mg daily"],
+    "dietary_restrictions": "Low sugar, high fiber",
+    "follow_up": "Endocrinology clinic in 1 month",
+    "warning_signs": "Hypoglycemia, excessive thirst, frequent urination",
+    "discharge_instructions": "Check blood glucose daily, maintain exercise regimen"
+  },
+  {
+    "patient_name": "Michael Johnson",
+    "discharge_date": "2024-03-05",
+    "primary_diagnosis": "Hypertension",
+    "medications": ["Amlodipine 5mg daily", "Hydrochlorothiazide 25mg daily"],
+    "dietary_restrictions": "Low sodium diet",
+    "follow_up": "Cardiology clinic in 2 weeks",
+    "warning_signs": "Severe headache, dizziness, blurred vision",
+    "discharge_instructions": "Monitor blood pressure daily, limit alcohol intake"
+  },
+  {
+    "patient_name": "Sophia Martinez",
+    "discharge_date": "2024-04-01",
+    "primary_diagnosis": "Asthma",
+    "medications": ["Albuterol inhaler PRN", "Budesonide inhaler daily"],
+    "dietary_restrictions": "None",
+    "follow_up": "Pulmonology clinic in 1 month",
+    "warning_signs": "Wheezing, shortness of breath, chest tightness",
+    "discharge_instructions": "Avoid triggers, use inhaler as prescribed"
+  },
+  {
+    "patient_name": "William Brown",
+    "discharge_date": "2024-04-18",
+    "primary_diagnosis": "Heart Failure",
+    "medications": ["Carvedilol 25mg twice daily", "Furosemide 40mg daily"],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Cardiology clinic in 1 week",
+    "warning_signs": "Swelling, shortness of breath, sudden weight gain",
+    "discharge_instructions": "Monitor weight daily, take medications on time"
+  },
+  {
+    "patient_name": "Olivia Wilson",
+    "discharge_date": "2024-05-03",
+    "primary_diagnosis": "Pneumonia",
+    "medications": ["Azithromycin 500mg daily", "Acetaminophen 500mg PRN"],
+    "dietary_restrictions": "None",
+    "follow_up": "Primary care clinic in 1 week",
+    "warning_signs": "Fever, worsening cough, shortness of breath",
+    "discharge_instructions": "Complete full course of antibiotics, rest adequately"
+  },
+  {
+    "patient_name": "James Anderson",
+    "discharge_date": "2024-05-20",
+    "primary_diagnosis": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "medications": ["Tiotropium inhaler daily", "Salbutamol inhaler PRN"],
+    "dietary_restrictions": "Low salt",
+    "follow_up": "Pulmonology clinic in 2 weeks",
+    "warning_signs": "Shortness of breath, wheezing, increased sputum",
+    "discharge_instructions": "Avoid smoke exposure, follow inhaler schedule"
+  },
+  {
+    "patient_name": "Isabella Thomas",
+    "discharge_date": "2024-06-10",
+    "primary_diagnosis": "Hyperthyroidism",
+    "medications": ["Methimazole 10mg daily", "Propranolol 20mg twice daily"],
+    "dietary_restrictions": "Avoid iodine-rich foods",
+    "follow_up": "Endocrinology clinic in 3 weeks",
+    "warning_signs": "Palpitations, weight loss, heat intolerance",
+    "discharge_instructions": "Monitor heart rate, take medications as prescribed"
+  },
+  {
+    "patient_name": "Benjamin Taylor",
+    "discharge_date": "2024-06-25",
+    "primary_diagnosis": "Chronic Liver Disease",
+    "medications": ["Spironolactone 50mg daily", "Lactulose 30ml twice daily"],
+    "dietary_restrictions": "Low sodium, avoid alcohol",
+    "follow_up": "Gastroenterology clinic in 2 weeks",
+    "warning_signs": "Jaundice, confusion, swelling",
+    "discharge_instructions": "Monitor weight, maintain low-sodium diet"
+  },
+  {
+    "patient_name": "Mia Hernandez",
+    "discharge_date": "2024-07-05",
+    "primary_diagnosis": "Acute Myocardial Infarction",
+    "medications": ["Aspirin 81mg daily", "Atorvastatin 20mg daily", "Metoprolol 25mg twice daily"],
+    "dietary_restrictions": "Low fat, low sodium",
+    "follow_up": "Cardiology clinic in 1 week",
+    "warning_signs": "Chest pain, shortness of breath, palpitations",
+    "discharge_instructions": "Take medications as prescribed, avoid heavy exertion"
+  },
+  {
+    "patient_name": "Alexander Moore",
+    "discharge_date": "2024-07-20",
+    "primary_diagnosis": "Stroke",
+    "medications": ["Clopidogrel 75mg daily", "Atorvastatin 20mg daily"],
+    "dietary_restrictions": "Low sodium, heart-healthy diet",
+    "follow_up": "Neurology clinic in 2 weeks",
+    "warning_signs": "Weakness, slurred speech, facial droop",
+    "discharge_instructions": "Attend physiotherapy, take medications as prescribed"
+  },
+  {
+    "patient_name": "Charlotte White",
+    "discharge_date": "2024-08-05",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+    "medications": ["Lisinopril 20mg daily", "Furosemide 40mg twice daily"],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.2L/day)",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Swelling, fatigue, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure and weight daily"
+  },
+  {
+    "patient_name": "Daniel Lewis",
+    "discharge_date": "2024-08-18",
+    "primary_diagnosis": "Type 1 Diabetes Mellitus",
+    "medications": ["Insulin glargine daily", "Insulin lispro with meals"],
+    "dietary_restrictions": "Carbohydrate counting, avoid sugary foods",
+    "follow_up": "Endocrinology clinic in 2 weeks",
+    "warning_signs": "Hypoglycemia, hyperglycemia, excessive thirst",
+    "discharge_instructions": "Monitor blood sugar, rotate injection sites"
+  },
+  {
+    "patient_name": "Evelyn Scott",
+    "discharge_date": "2024-09-01",
+    "primary_diagnosis": "COPD exacerbation",
+    "medications": ["Prednisone taper", "Salbutamol inhaler PRN"],
+    "dietary_restrictions": "Low salt",
+    "follow_up": "Pulmonology clinic in 2 weeks",
+    "warning_signs": "Worsening shortness of breath, increased sputum",
+    "discharge_instructions": "Avoid respiratory irritants, complete steroid course"
+  },
+  {
+    "patient_name": "Matthew King",
+    "discharge_date": "2024-09-15",
+    "primary_diagnosis": "Heart Failure with Reduced Ejection Fraction",
+    "medications": ["Carvedilol 25mg twice daily", "Furosemide 40mg daily", "Spironolactone 25mg daily"],
+    "dietary_restrictions": "Low sodium, fluid restriction 1.5L/day",
+    "follow_up": "Cardiology clinic in 1 week",
+    "warning_signs": "Shortness of breath, swelling, sudden weight gain",
+    "discharge_instructions": "Daily weight monitoring, take medications regularly"
+  },
+  {
+    "patient_name": "Avery Wright",
+    "discharge_date": "2024-10-01",
+    "primary_diagnosis": "Pneumothorax",
+    "medications": ["Pain relievers as needed"],
+    "dietary_restrictions": "None",
+    "follow_up": "Pulmonology clinic in 1 week",
+    "warning_signs": "Shortness of breath, chest pain",
+    "discharge_instructions": "Avoid heavy lifting, rest adequately"
+  },
+  {
+    "patient_name": "Ella Lopez",
+    "discharge_date": "2024-10-18",
+    "primary_diagnosis": "Chronic Hepatitis B",
+    "medications": ["Tenofovir 300mg daily"],
+    "dietary_restrictions": "Avoid alcohol, healthy diet",
+    "follow_up": "Gastroenterology clinic in 1 month",
+    "warning_signs": "Jaundice, fatigue, abdominal swelling",
+    "discharge_instructions": "Take medications daily, follow up regularly"
+  },
+  {
+    "patient_name": "Liam Hill",
+    "discharge_date": "2024-11-05",
+    "primary_diagnosis": "Hypertension",
+    "medications": ["Losartan 50mg daily", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Low sodium diet",
+    "follow_up": "Cardiology clinic in 2 weeks",
+    "warning_signs": "Severe headache, blurred vision, dizziness",
+    "discharge_instructions": "Monitor blood pressure daily, maintain healthy lifestyle"
+  },
+  {
+    "patient_name": "Amelia Green",
+    "discharge_date": "2024-11-20",
+    "primary_diagnosis": "Stroke",
+    "medications": ["Aspirin 81mg daily", "Atorvastatin 20mg daily"],
+    "dietary_restrictions": "Low sodium, heart-healthy diet",
+    "follow_up": "Neurology clinic in 2 weeks",
+    "warning_signs": "Weakness, slurred speech, facial droop",
+    "discharge_instructions": "Attend physiotherapy, follow medication schedule"
+  },
+  {
+    "patient_name": "Noah Adams",
+    "discharge_date": "2024-12-05",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": ["Furosemide 40mg daily", "Calcium carbonate 500mg twice daily"],
+    "dietary_restrictions": "Low sodium, fluid restriction 1.5L/day",
+    "follow_up": "Nephrology clinic in 1 week",
+    "warning_signs": "Swelling, decreased urine output, fatigue",
+    "discharge_instructions": "Monitor weight, blood pressure, and urine output daily"
+  },
+  {
+    "patient_name": "Harper Baker",
+    "discharge_date": "2024-12-18",
+    "primary_diagnosis": "Pneumonia",
+    "medications": ["Amoxicillin 500mg three times daily", "Acetaminophen PRN"],
+    "dietary_restrictions": "None",
+    "follow_up": "Primary care clinic in 1 week",
+    "warning_signs": "Fever, worsening cough, shortness of breath",
+    "discharge_instructions": "Complete full antibiotic course, stay hydrated"
+  },
+  {
+    "patient_name": "James Carter",
+    "discharge_date": "2025-01-05",
+    "primary_diagnosis": "Type 2 Diabetes Mellitus",
+    "medications": ["Metformin 500mg twice daily", "Glimepiride 2mg daily"],
+    "dietary_restrictions": "Low sugar, high fiber diet",
+    "follow_up": "Endocrinology clinic in 2 weeks",
+    "warning_signs": "Hypoglycemia, polyuria, polydipsia",
+    "discharge_instructions": "Monitor blood glucose daily, maintain exercise"
+  },
+  {
+    "patient_name": "Mason Phillips",
+    "discharge_date": "2025-01-20",
+    "primary_diagnosis": "Heart Failure",
+    "medications": ["Carvedilol 25mg twice daily", "Furosemide 40mg daily", "Spironolactone 25mg daily"],
+    "dietary_restrictions": "Low sodium, fluid restriction 1.5L/day",
+    "follow_up": "Cardiology clinic in 1 week",
+    "warning_signs": "Shortness of breath, swelling, rapid weight gain",
+    "discharge_instructions": "Monitor daily weight and blood pressure"
+  },
+  {
+    "patient_name": "Victoria Campbell",
+    "discharge_date": "2025-02-05",
+    "primary_diagnosis": "Chronic Obstructive Pulmonary Disease",
+    "medications": ["Tiotropium inhaler daily", "Salbutamol inhaler PRN"],
+    "dietary_restrictions": "Low salt",
+    "follow_up": "Pulmonology clinic in 2 weeks",
+    "warning_signs": "Shortness of breath, wheezing, increased sputum",
+    "discharge_instructions": "Avoid smoking, adhere to inhaler regimen"
+  }
+]
