@@ -595,33 +595,5 @@ Contributions welcome! Please:
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License - see LICENSE file for details.
-
----
-
-## 📝 Documentation
-
-- **[BRIEF_REPORT.md](BRIEF_REPORT.md)** - Comprehensive technical report with architecture justification
-- **.env.example** - Environment configuration template
-- **inline code comments** - Detailed documentation in source code
-
----
-
-## 🎯 Project Status
-
-✅ **Production-Ready POC**
-
-- Multi-agent orchestration: Complete
-- RAG with strict gating: Implemented
-- Query Composer Agent: Novel implementation
-- Web interface: Streamlit running
-- Logging system: Comprehensive
-- Documentation: Complete
-
-
----
-
-**Built with ❤️ for better post-discharge patient care**
 
