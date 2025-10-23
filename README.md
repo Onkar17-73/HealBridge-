@@ -1,4 +1,4 @@
-# HealBridge AI - Post-Discharge Medical Assistant# 🏥 HealBridge AI: Post-Discharge Medical AI Assistant POC# 🏥 HealBridge AI: Post-Discharge Medical AI Assistant POC
+# HealBridge AI - Post-Discharge Medical Assistant
 
 
 
