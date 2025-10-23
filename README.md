@@ -5,8 +5,7 @@
 A simple AI chatbot that helps patients after they leave the hospital. It answers medical questions using a knowledge base and can search the web if needed.
 
 
-
-## What It Does> **A sophisticated multi-agent AI system for post-discharge patient care** using RAG, intelligent query optimization, and medical-grade logging.> **A sophisticated multi-agent AI system for post-discharge patient care** using RAG, intelligent query optimization, and medical-grade logging.
+What It Does> **A sophisticated multi-agent AI system for post-discharge patient care** using RAG, intelligent query optimization, and medical-grade logging.> **A sophisticated multi-agent AI system for post-discharge patient care** using RAG, intelligent query optimization, and medical-grade logging.
 
 
 
@@ -14,15 +13,8 @@ A simple AI chatbot that helps patients after they leave the hospital. It answer
 
 - 💬 **Chat** - Ask medical questions, get helpful answers
 
-- 📚 **Smart Search** - Uses medical knowledge base first, then web if needed[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
+- 📚 **Smart Search** - Uses medical knowledge base first, then web if needed
 - 📋 **Keeps History** - Remembers your conversation for context
-
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-
-## Quick Start
-
-[![Status](https://img.shields.io/badge/Status-Production%20Ready%20POC-green.svg)]()[![Status](https://img.shields.io/badge/Status-Production%20Ready%20POC-green.svg)]()
 
 ### 1. Install
 
