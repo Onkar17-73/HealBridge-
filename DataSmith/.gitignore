@@ -1,0 +1,62 @@
+############################################
+# Python caches and build artifacts
+############################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.cache/
+
+############################################
+# Virtual environments
+############################################
+.venv/
+venv/
+env/
+.python-version
+
+############################################
+# Environment/secrets (keep API keys and creds out of git)
+############################################
+.env
+.env.*
+.envrc
+*.secret
+*.secrets
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+
+############################################
+# Vector DB / local databases
+############################################
+chroma_db/
+*.sqlite
+*.db
+*.db-journal
+
+############################################
+# Logs
+############################################
+*.log
+
+############################################
+# Editors / OS-specific files
+############################################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.history/
+.VSCodeCounter/
+
+############################################
+# Jupyter
+############################################
+.ipynb_checkpoints/
